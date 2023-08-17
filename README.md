@@ -12,7 +12,7 @@
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
+To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
@@ -27,6 +27,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Uz-Zaman&theme=dark" alt="pemtajo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Uz-Zaman&theme=dark" alt="Saif-Uz-Zaman" /></p>
 
 <br />
