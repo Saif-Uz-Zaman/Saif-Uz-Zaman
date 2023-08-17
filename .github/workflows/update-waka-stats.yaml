@@ -2,8 +2,16 @@ name: Update waka stats
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: "*/10 * * * *"
+    # Runs at 12PM UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with Metrics
