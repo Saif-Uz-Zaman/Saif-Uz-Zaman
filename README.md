@@ -30,6 +30,14 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 August 2023 - To: 17 August 2023
+
+Markdown   20 mins         ███████████████▒░░░░░░░░░   61.98 %
+YAML       12 mins         █████████▓░░░░░░░░░░░░░░░   38.02 %
+```
+
 <!--END_SECTION:waka-->
 
 <br />
