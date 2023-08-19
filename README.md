@@ -13,7 +13,7 @@
 
 <br />
 
-## My Last Badges
+## 🎖️ My Last Badges
 
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
@@ -31,7 +31,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 
 <br />
 
-## Stuff I worked on last week
+## 💻 Stuff I worked on last week
 
 <!--START_SECTION:waka-->
 
@@ -49,6 +49,6 @@ HCL              3 mins          █░░░░░░░░░░░░░░�
 
 <br />
 
-## My GitHub Stats
+## 🧳 My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saif-Uz-Zaman&theme=dark&hide_border=true)](https://git.io/streak-stats)
