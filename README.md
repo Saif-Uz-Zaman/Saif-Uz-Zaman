@@ -2,17 +2,18 @@
 
 ## Md. Saif-Uz-Zaman
 ### DevOps Engineer | Kubernetes | Docker | AWS | AZURE
+
+✍🏼 Experienced Cloud and DevOps Architect proficient in AWS, Azure, Docker, and Kubernetes (EKS, AKS, GKE). Certified in "Architecting with Google Kubernetes Engine." Specialized in architecting DevOps solutions for enterprise-level software providers, optimizing CI/CD pipelines across deployment stages for improved efficiency.
+
 🇧🇩 Dhaka, Bangladesh
 
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com)
+[![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com) -->
 
-<p align="center">
-<a href="https://www.linkedin.com/in/saif-uz-zaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8098885" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581307" height="30" width="30" /></a>
-</p>
 
 <br />
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+## 🎖️ My Last Badges
 
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
@@ -28,8 +29,9 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/100x100/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png)](http://www.credly.com/badges/bc94dace-6e80-4acb-872c-67c7385cb411 "LFS169: Introduction to GitOps")
 <!--END_SECTION:badges-->
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+<br />
 
+## 💻 Stuff I worked on last week
 
 <!--START_SECTION:waka-->
 
@@ -47,8 +49,6 @@ HCL              3 mins          █░░░░░░░░░░░░░░�
 
 <br />
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+## 🧳 My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Uz-Zaman&theme=dark" alt="Saif-Uz-Zaman" /></p>
-
-<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saif-Uz-Zaman&theme=dark&hide_border=true)](https://git.io/streak-stats)
