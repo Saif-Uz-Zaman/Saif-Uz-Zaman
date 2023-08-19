@@ -1,9 +1,7 @@
-<p>
-  <img align="center" src="https://github.com/Saif-Uz-Zaman/cdn-assets/blob/main/cover.jpg" alt="Saif-Uz-Zaman"/>
-</p>
+![Saif-Uz-Zaman-Cover](static/cover.jpg)
 
 ## Md. Saif-Uz-Zaman
-### Senior DevOps Engineer | Kubernetes | Docker | AWS | AZURE
+### DevOps Engineer | Kubernetes | Docker | AWS | AZURE
 🇧🇩 Dhaka, Bangladesh
 
 
