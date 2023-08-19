@@ -1,7 +1,9 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Md. Saif-Uz-Zaman</h1>
+<p>
+  <img align="center" src="https://github.com/Saif-Uz-Zaman/cdn-assets/blob/main/cover.jpg" alt="Saif-Uz-Zaman"/>
+</p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saif-uz-zaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
