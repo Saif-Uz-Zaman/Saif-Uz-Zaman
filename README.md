@@ -58,13 +58,13 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Markdown         2 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
-Terraform        45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-Bash             31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-YAML             25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Docker           25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Markdown         2 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.65 %
+Terraform        1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Bash             37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+YAML             34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Docker           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->
