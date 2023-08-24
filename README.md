@@ -10,7 +10,7 @@
 
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com)
 [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com) -->
-
+<br />
 [![MY CV/Resume](https://img.shields.io/badge/My%20CV%2FResume-8A2BE2?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/Saif-Uz-Zaman/Saif-Uz-Zaman/main/static/Md.%20Saif-Uz-Zaman's%20Resume.pdf)
 <br />
 
