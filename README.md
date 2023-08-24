@@ -1,4 +1,4 @@
-![Saif-Uz-Zaman-Cover](static/cover.jpg)
+![Saif-Uz-Zaman-Cover](static/cover.png)
 
 ## Md. Saif-Uz-Zaman
 ### DevOps Engineer | Kubernetes | Docker | AWS | AZURE
