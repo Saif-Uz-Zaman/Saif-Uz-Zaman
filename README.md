@@ -3,7 +3,7 @@
 ## Md. Saif-Uz-Zaman
 ### DevOps Engineer | Kubernetes | Docker | AWS | AZURE
 
-✍🏼 Experienced Cloud and DevOps Architect proficient in AWS, Azure, Docker, and Kubernetes (EKS, AKS, GKE). Certified in "Architecting with Google Kubernetes Engine." Specialized in architecting DevOps solutions for enterprise-level software providers, optimizing CI/CD pipelines across deployment stages for improved efficiency.
+✍🏼 Experienced Cloud and DevOps Architect proficient in AWS, Azure, Docker, and baremetal and cloud managed Kubernetes (EKS, AKS, GKE). Specialized in architecting DevOps solutions for enterprise-level software providers, optimizing CI/CD pipelines across deployment stages for improved efficiency.
 
 🇧🇩 Dhaka, Bangladesh
 
