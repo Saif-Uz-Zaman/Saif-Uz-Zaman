@@ -63,16 +63,15 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2023 - To: 02 September 2023
+From: 27 August 2023 - To: 03 September 2023
 
-Terraform      1 hr 49 mins    ██████████▓░░░░░░░░░░░░░░   42.50 %
-Markdown       1 hr 46 mins    ██████████▒░░░░░░░░░░░░░░   41.26 %
-Text           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-JavaScript     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Bash           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-HCL            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Terraform      1 hr 49 mins    ████████████░░░░░░░░░░░░░   47.93 %
+Markdown       1 hr 41 mins    ███████████▒░░░░░░░░░░░░░   44.73 %
+JavaScript     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+HCL            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
