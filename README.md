@@ -63,16 +63,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Terraform    1 hr 11 mins    █████████████████▒░░░░░░░   68.80 %
-Ezhil        22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown     3 mins          ███████████████████▒░░░░░   77.61 %
+Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Ezhil        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+PowerShell   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Terraform    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
