@@ -45,6 +45,7 @@
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/100x100/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/39043372-7bd0-4be7-849c-f852eb6988b7 "AWS Knowledge: Cloud Essentials")
 [![Fundamentals for Cilium by Solo.io](https://images.credly.com/size/100x100/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png)](http://www.credly.com/badges/8673a75d-18c4-4cfc-b7ca-88cf863b458a "Fundamentals for Cilium by Solo.io")
 [![Fundamentals for eBPF by Solo.io](https://images.credly.com/size/100x100/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png)](http://www.credly.com/badges/0ef4eb94-be3a-45f6-acd4-dfbf971c8672 "Fundamentals for eBPF by Solo.io")
 [![Intermediate for Istio by Solo.io](https://images.credly.com/size/100x100/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png)](http://www.credly.com/badges/0c3acc68-0099-4ad1-a04a-79cfa0cb0f9e "Intermediate for Istio by Solo.io")
