@@ -64,7 +64,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
 Markdown     2 hrs 39 mins   ███████████████░░░░░░░░░░   59.64 %
 Bash         1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
