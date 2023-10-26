@@ -64,16 +64,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-YAML              2 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-Python            2 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Terraform         1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Java              1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-INI               33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Text              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-TSQL              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-HTML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python            5 hrs 4 mins    ██████████████▒░░░░░░░░░░   56.87 %
+YAML              1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Java              1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Terraform         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+HTML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+XML               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Text              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
