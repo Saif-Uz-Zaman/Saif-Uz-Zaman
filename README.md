@@ -45,6 +45,7 @@
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
+[![Python Project for Data Engineering](https://images.credly.com/size/100x100/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](http://www.credly.com/badges/21a70616-66ec-4efe-bdef-29774a1e3703 "Python Project for Data Engineering")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/100x100/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/39043372-7bd0-4be7-849c-f852eb6988b7 "AWS Knowledge: Cloud Essentials")
 [![Fundamentals for Cilium by Solo.io](https://images.credly.com/size/100x100/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png)](http://www.credly.com/badges/8673a75d-18c4-4cfc-b7ca-88cf863b458a "Fundamentals for Cilium by Solo.io")
 [![Fundamentals for eBPF by Solo.io](https://images.credly.com/size/100x100/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png)](http://www.credly.com/badges/0ef4eb94-be3a-45f6-acd4-dfbf971c8672 "Fundamentals for eBPF by Solo.io")
