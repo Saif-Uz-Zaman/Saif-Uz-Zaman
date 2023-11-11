@@ -66,16 +66,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Terraform        2 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-Python           1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-RobotFramework   1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-YAML             58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-HCL              48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-JavaScript       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Markdown         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Terraform        2 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.13 %
+Python           1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+RobotFramework   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+YAML             58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+HCL              48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+JavaScript       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JSON             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Markdown         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
