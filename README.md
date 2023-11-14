@@ -66,7 +66,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
 Terraform    5 hrs 19 mins   ████████████████▒░░░░░░░░   64.89 %
 YAML         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
