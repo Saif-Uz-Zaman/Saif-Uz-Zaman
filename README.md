@@ -66,7 +66,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2023 - To: 18 November 2023
+From: 12 November 2023 - To: 19 November 2023
 
 YAML         5 hrs 33 mins   ████████████████░░░░░░░░░   64.60 %
 C            1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
