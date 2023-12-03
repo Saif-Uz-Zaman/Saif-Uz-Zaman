@@ -66,14 +66,13 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-YAML       2 hrs 19 mins   ████████████▒░░░░░░░░░░░░   48.90 %
-Python     1 hr 52 mins    ██████████░░░░░░░░░░░░░░░   39.52 %
-Markdown   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-C          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Smarty     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML       1 hr 56 mins    ███████████░░░░░░░░░░░░░░   44.66 %
+Python     1 hr 52 mins    ██████████▓░░░░░░░░░░░░░░   42.93 %
+Markdown   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+C          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
