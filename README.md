@@ -67,15 +67,15 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-Terraform   2 hrs 29 mins   █████████████████▒░░░░░░░   68.70 %
-Python      42 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-HCL         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-HTML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Text        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Terraform   3 hrs 7 mins    ██████████████████░░░░░░░   71.56 %
+Python      42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+HCL         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+HTML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JSON        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Text        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
