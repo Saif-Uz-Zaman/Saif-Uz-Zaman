@@ -46,7 +46,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 
 <!--START_SECTION:badges-->
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/99d5ec0f-9931-4113-9973-c33182072a77 "CKAD: Certified Kubernetes Application Developer")
-[![Relational Databases (RDBMS) Essentials](https://images.credly.com/size/100x100/images/734f22ee-dbe6-4db3-bc61-c83ebef0f78a/Relational_Databases_-_RDBMS_Essentials.png)](http://www.credly.com/badges/ee887cd6-8de3-4b50-80f5-b7574cef41cd "Relational Databases (RDBMS) Essentials")
+[![Relational Databases (RDBMS) Essentials](https://images.credly.com/size/100x100/images/9247e02c-eade-4704-8758-7a9f6ef8e3db/image.png)](http://www.credly.com/badges/ee887cd6-8de3-4b50-80f5-b7574cef41cd "Relational Databases (RDBMS) Essentials")
 [![Python Project for Data Engineering](https://images.credly.com/size/100x100/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](http://www.credly.com/badges/21a70616-66ec-4efe-bdef-29774a1e3703 "Python Project for Data Engineering")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/100x100/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/39043372-7bd0-4be7-849c-f852eb6988b7 "AWS Knowledge: Cloud Essentials")
 [![Fundamentals for Cilium by Solo.io](https://images.credly.com/size/100x100/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png)](http://www.credly.com/badges/8673a75d-18c4-4cfc-b7ca-88cf863b458a "Fundamentals for Cilium by Solo.io")
