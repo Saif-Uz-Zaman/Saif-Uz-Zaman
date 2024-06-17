@@ -45,6 +45,7 @@
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
+[![GitOps Fundamentals](https://images.credly.com/size/100x100/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/02dfc2d6-6731-4d22-85a3-d6c63f639097 "GitOps Fundamentals")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/99d5ec0f-9931-4113-9973-c33182072a77 "CKAD: Certified Kubernetes Application Developer")
 [![Relational Databases (RDBMS) Essentials](https://images.credly.com/size/100x100/images/9247e02c-eade-4704-8758-7a9f6ef8e3db/image.png)](http://www.credly.com/badges/ee887cd6-8de3-4b50-80f5-b7574cef41cd "Relational Databases (RDBMS) Essentials")
 [![Python Project for Data Engineering](https://images.credly.com/size/100x100/images/16c405a6-bce7-4dda-9c85-e298617f00bd/image.png)](http://www.credly.com/badges/21a70616-66ec-4efe-bdef-29774a1e3703 "Python Project for Data Engineering")
