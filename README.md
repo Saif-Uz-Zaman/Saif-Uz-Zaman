@@ -71,11 +71,11 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-YAML        12 mins         █████████████▒░░░░░░░░░░░   53.29 %
-Terraform   9 mins          █████████▒░░░░░░░░░░░░░░░   37.03 %
-Markdown    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Terraform   22 mins         █████████████▒░░░░░░░░░░░   53.21 %
+YAML        17 mins         ██████████▒░░░░░░░░░░░░░░   41.26 %
+Markdown    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
