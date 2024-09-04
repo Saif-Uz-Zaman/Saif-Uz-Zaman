@@ -71,16 +71,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-YAML            6 hrs 46 mins   ███████████▒░░░░░░░░░░░░░   45.16 %
-Docker          3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-JSON            1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Terraform       1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-TypeScript      32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Other           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Bash            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Go              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+YAML            5 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
+Docker          3 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+JSON            1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Terraform       1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+TypeScript      32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Bash            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+HCL             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
