@@ -61,7 +61,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/100x100/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png)](http://www.credly.com/badges/bf4b2de4-0f0c-48eb-b50e-447b60be91ac "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/100x100/images/82966826-6630-4768-80d4-6028b3fab414/image.png)](http://www.credly.com/badges/afcf1fa6-4ae8-4053-8591-40bcd4ae02b7 "Containers & Kubernetes Essentials")
 [![Fundamentals for Istio by Solo.io](https://images.credly.com/size/100x100/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png)](http://www.credly.com/badges/9e57e1e0-3ad7-4402-9d84-648de0087daa "Fundamentals for Istio by Solo.io")
-[![LFS169: Introduction to GitOps](https://images.credly.com/size/100x100/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/bc94dace-6e80-4acb-872c-67c7385cb411 "LFS169: Introduction to GitOps")
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/100x100/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](http://www.credly.com/badges/bc94dace-6e80-4acb-872c-67c7385cb411 "LFS169: Introduction to GitOps")
 <!--END_SECTION:badges-->
 
 <br />
