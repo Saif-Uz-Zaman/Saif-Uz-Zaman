@@ -71,13 +71,13 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Bash         3 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.33 %
-YAML         2 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.79 %
-Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Makefile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+YAML         3 hrs 51 mins   ████████████░░░░░░░░░░░░░   48.38 %
+Bash         3 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.50 %
+Git Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Makefile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
