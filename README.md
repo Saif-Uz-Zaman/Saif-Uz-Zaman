@@ -45,6 +45,7 @@
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
+[![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/100x100/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](http://www.credly.com/badges/4196e837-e997-41f7-94fc-8ff9ef75cdb8 "LFEL1014: Scaling Cloud Native Applications with KEDA")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/100x100/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/9702f4bb-e1da-465f-9c5e-8c3b59f9179e "KCNA: Kubernetes and Cloud Native Associate")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/3d2b5c6c-c279-4bbf-827d-402db78be204 "CKA: Certified Kubernetes Administrator")
 [![IBM Machine Learning Specialist - Associate](https://images.credly.com/size/100x100/images/77dcb042-b420-42f3-9d9d-bb1e0d9dcf60/image.png)](http://www.credly.com/badges/4a0e223f-141e-44a0-90b9-d43c85b5981a "IBM Machine Learning Specialist - Associate")
