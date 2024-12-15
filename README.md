@@ -72,7 +72,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
 YAML       4 hrs 9 mins    ████████████████████████░   95.82 %
 Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
