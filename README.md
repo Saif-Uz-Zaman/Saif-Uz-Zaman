@@ -72,10 +72,12 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2024 - To: 18 December 2024
+From: 12 December 2024 - To: 19 December 2024
 
-YAML     8 mins          ██████████████████████░░░   87.81 %
-Docker   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+YAML       1 hr 12 mins    ██████████████░░░░░░░░░░░   56.28 %
+Markdown   54 mins         ██████████▓░░░░░░░░░░░░░░   42.06 %
+Docker     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
