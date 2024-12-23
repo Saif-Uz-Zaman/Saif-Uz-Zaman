@@ -72,16 +72,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2024 - To: 21 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
-YAML         1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   37.56 %
-Markdown     1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   34.62 %
-Other        31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-JSON         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+YAML         3 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   44.82 %
+JSON         1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+Markdown     1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+Other        34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Docker       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
