@@ -76,13 +76,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-YAML      1 hr 28 mins    ███████████████████▒░░░░░   76.81 %
-Bash      20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-JSON      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-RPMSpec   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML         2 hrs 3 mins    ████████████████▒░░░░░░░░   64.97 %
+JSON         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Bash         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+RPMSpec      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
