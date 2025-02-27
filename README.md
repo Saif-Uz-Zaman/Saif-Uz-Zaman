@@ -76,14 +76,11 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Terraform   1 hr 54 mins    ██████████████▒░░░░░░░░░░   57.50 %
-YAML        1 hr 2 mins     ███████▓░░░░░░░░░░░░░░░░░   31.23 %
-Bash        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Terraform   2 hrs 41 mins   ████████████████████░░░░░   80.59 %
+YAML        37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
