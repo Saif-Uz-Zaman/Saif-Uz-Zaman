@@ -76,16 +76,16 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Terraform    3 hrs 8 mins    █████████████▓░░░░░░░░░░░   54.52 %
-YAML         1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-HCL          32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Bash         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Docker       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Terraform    3 hrs 44 mins   ██████████████████░░░░░░░   72.33 %
+YAML         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Docker       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+HCL          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
