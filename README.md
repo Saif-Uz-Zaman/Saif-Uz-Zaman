@@ -76,13 +76,9 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2025 - To: 18 March 2025
+From: 12 March 2025 - To: 19 March 2025
 
-Bash        5 mins          ███████████▓░░░░░░░░░░░░░   46.42 %
-Python      4 mins          ██████████▒░░░░░░░░░░░░░░   41.65 %
-Terraform   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-HCL         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Docker      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Bash   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
