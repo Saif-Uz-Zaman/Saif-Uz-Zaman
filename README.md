@@ -76,7 +76,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
 No activity tracked
 ```
