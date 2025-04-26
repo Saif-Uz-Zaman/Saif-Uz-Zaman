@@ -76,15 +76,15 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-PHP                        1 hr 58 mins    █████████████████░░░░░░░░   68.39 %
-Docker                     43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-SQL                        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Apache Config              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-YAML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP                        1 hr 46 mins    ████████████████▓░░░░░░░░   66.66 %
+Docker                     43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+SQL                        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Apache Config              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 DIGITAL Command Language   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
