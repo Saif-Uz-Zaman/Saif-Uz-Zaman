@@ -76,7 +76,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
 Docker          50 mins         ████████████░░░░░░░░░░░░░   48.46 %
 YAML            33 mins         ████████░░░░░░░░░░░░░░░░░   32.66 %
