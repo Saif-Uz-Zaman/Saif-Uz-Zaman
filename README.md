@@ -76,16 +76,14 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-YAML         7 hrs 1 min     ██████████████████▓░░░░░░   74.68 %
-Docker       59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Other        51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+YAML       5 hrs 31 mins   ████████████████████▒░░░░   81.43 %
+Docker     53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Other      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Bash       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
