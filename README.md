@@ -76,13 +76,13 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-YAML     2 hrs 23 mins   ███████████████████▓░░░░░   78.02 %
-Other    26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Docker   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Bash     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML     2 hrs 19 mins   ███████████████████▓░░░░░   79.33 %
+Other    26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Docker   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Bash     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
