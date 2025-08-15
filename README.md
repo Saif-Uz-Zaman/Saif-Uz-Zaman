@@ -45,7 +45,7 @@
 To see all the other badges are [here](https://www.credly.com/users/saif-uz-zaman/badges)
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/068028ae-97d9-4022-8336-0c72e4aaad39" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/068028ae-97d9-4022-8336-0c72e4aaad39" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ed2c2575-eb06-486d-b922-052462dd8019" title="KCSA: Kubernetes and Cloud Native Security Associate"><img src="https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/251784a0-2c7b-4033-a4aa-d9d3fbc8dd1c" title="Kubestronaut"><img src="https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/845fc562-56eb-48f0-87a8-6c375e6a4bce" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
