@@ -66,7 +66,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 <a href="https://www.credly.com/badges/afcf1fa6-4ae8-4053-8591-40bcd4ae02b7" title="Containers & Kubernetes Essentials"><img src="https://images.credly.com/size/80x80/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Containers & Kubernetes Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9e57e1e0-3ad7-4402-9d84-648de0087daa" title="Fundamentals for Istio by Solo.io"><img src="https://images.credly.com/size/80x80/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/bc94dace-6e80-4acb-872c-67c7385cb411" title="LFS169: Introduction to GitOps"><img src="https://images.credly.com/size/80x80/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/02dfc2d6-6731-4d22-85a3-d6c63f639097" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/02dfc2d6-6731-4d22-85a3-d6c63f639097" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <br />
