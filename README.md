@@ -51,7 +51,6 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/845fc562-56eb-48f0-87a8-6c375e6a4bce)
 [![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/80x80/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](https://www.credly.com/badges/4196e837-e997-41f7-94fc-8ff9ef75cdb8)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/9702f4bb-e1da-465f-9c5e-8c3b59f9179e)
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/3d2b5c6c-c279-4bbf-827d-402db78be204)
 [![IBM Machine Learning Specialist - Associate](https://images.credly.com/size/80x80/images/77dcb042-b420-42f3-9d9d-bb1e0d9dcf60/image.png)](https://www.credly.com/badges/4a0e223f-141e-44a0-90b9-d43c85b5981a)
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/99d5ec0f-9931-4113-9973-c33182072a77)
 [![Relational Databases (RDBMS) Essentials](https://images.credly.com/size/80x80/images/9247e02c-eade-4704-8758-7a9f6ef8e3db/image.png)](https://www.credly.com/badges/ee887cd6-8de3-4b50-80f5-b7574cef41cd)
@@ -67,6 +66,7 @@ To see all the other badges are [here](https://www.credly.com/users/saif-uz-zama
 [![Fundamentals for Istio by Solo.io](https://images.credly.com/size/80x80/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png)](https://www.credly.com/badges/9e57e1e0-3ad7-4402-9d84-648de0087daa)
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/80x80/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/bc94dace-6e80-4acb-872c-67c7385cb411)
 [![GitOps Fundamentals](https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob)](https://www.credly.com/badges/02dfc2d6-6731-4d22-85a3-d6c63f639097)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/3d2b5c6c-c279-4bbf-827d-402db78be204)
 <!--END_SECTION:badges-->
 
 <br />
